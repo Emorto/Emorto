@@ -43,5 +43,5 @@ Aquí puedes explorar algunas de las soluciones empresariales que he desarrollad
 ### 🤝 ¿Hablamos?
 Si buscas un perfil senior para liderar un proyecto, optimizar la arquitectura de tu software o integrar flujos de desarrollo modernos:
 
-- 💼 **LinkedIn:** [Tu Perfil de LinkedIn](enlace-a-tu-linkedin)
-- 📧 **Email:** [tu.email@dominio.com](mailto:tu.email@dominio.com)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/emilio-ortiz-tobarra-367939284](https://www.linkedin.com/in/emilio-ortiz-tobarra-367939284)
+- 📧 **Email:** [emilio.ortiz.tobarra@gmail.com](emilio.ortiz.tobarra@gmail.com)
