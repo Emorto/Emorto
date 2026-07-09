@@ -23,7 +23,16 @@ Apasionado por la creación de software robusto, escalable y eficiente. Como des
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
+### 🧰 Especialidades
 
+- Desarrollo con C# y Visual Basic .NET
+- Mantenimiento y modernización de sistemas legacy
+- Migración de VB.NET a C#
+- Refactorización y reducción de deuda técnica
+- Integración con SQL Server y MySQL
+- Desarrollo de aplicaciones de negocio
+- Arquitectura mantenible y buenas prácticas de código
+---
 ### 📁 Proyectos Destacados (Core Business)
 
 Aquí puedes explorar algunas de las soluciones empresariales que he desarrollado, estructuradas bajo los más altos estándares de la industria:
